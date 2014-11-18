@@ -14,7 +14,7 @@ Description: Lab 6 is IR signals talking to a robot. This builds off of lab 5 wh
 
 ##Prelab
 
-**Setup**
+**Hardware Setup**
 This is what the set up looks like in picture form.
 
 ![set up]( https://github.com/Austinbolinger/ECE382Lab6/blob/master/Setup1.jpg?raw=true "Set Up" )
@@ -31,3 +31,9 @@ Vin is the voltage supply from the batteries. Vout is the power supply, now regu
 
 The motor driver is split into two parts. The left side for one motor and the right side for the other motor. All GND will be grounded. M1&2 Enable are the Power from 5V. 5V and Motor power in pins are connected. Input power and ground on one side will correspond with P1.4 & P1.5 and on the other side correspond with P2.0 & P2.1. Output power and ground on one side will correspond with the motors power and ground respectively.
 
+**Software Setup**
+
+![Flow Chart]( https://github.com/Austinbolinger/ECE382Lab6/blob/master/flowchart.jpg?raw=true "Flow Chart" )
+
+##Documentation
+I used the robot in the lab to understand what each hardware piece was to do. I looked up the images online and added my own words to them.
