@@ -23,6 +23,10 @@ This is what the set up looks like in picture form.
 
 The MSP430 will be hooked up to the voltage driver to take the battery down from 5V to 3.3V. There will be four pins in use. Two for high and two for low on the pulse width modulation. One set of high and low for each motor. The pins can be set and reset in order to control which direction the voltage will flow through the motors.
 
+![IR Sensor]( https://github.com/Austinbolinger/ECE382Lab6/blob/master/IRSensor.JPG?raw=true "IR Sensor" )
+
+The IR Sensor will hook up to the MSP430 ground, 3.3V, and Xin pin for input.
+
 ![Voltage Regulator]( https://github.com/Austinbolinger/ECE382Lab6/blob/master/voltageRegulator.JPG?raw=true "Voltage Regulator" )
 
 Vin is the voltage supply from the batteries. Vout is the power supply, now regulated, going to the MSP430.
