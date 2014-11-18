@@ -33,7 +33,7 @@ The motor driver is split into two parts. The left side for one motor and the ri
 
 **Software Setup**
 
-![Flow Chart]( https://github.com/Austinbolinger/ECE382Lab6/blob/master/flowchart.jpg?raw=true "Flow Chart" )
+![Flow Chart]( https://github.com/Austinbolinger/ECE382Lab6/blob/master/flowchart.JPG?raw=true "Flow Chart" )
 
 ##Documentation
 I used the robot in the lab to understand what each hardware piece was to do. I looked up the images online and added my own words to them.
