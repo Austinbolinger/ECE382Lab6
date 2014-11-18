@@ -17,7 +17,10 @@ Description: Lab 6 is IR signals talking to a robot. This builds off of lab 5 wh
 **Setup**
 This is what the set up looks like in picture form.
 
-![set up]( https://github.com/Austinbolinger/ECE382Lab8/blob/master/setUp.JPG?raw=true "Set Up" )
+![set up]( https://github.com/Austinbolinger/ECE382Lab6/blob/master/Setup1.JPG?raw=true "Set Up" )
+![set up]( https://github.com/Austinbolinger/ECE382Lab6/blob/master/Setup2.JPG?raw=true "Set Up" )
+![set up]( https://github.com/Austinbolinger/ECE382Lab6/blob/master/Setup3.JPG?raw=true "Set Up" )
+![set up]( https://github.com/Austinbolinger/ECE382Lab6/blob/master/Setup4.JPG?raw=true "Set Up" )
 
 O is for Output pin. G is for Ground pin. Vcc is for the power pin. And, the Output pin was actually attached to the Xin pin on the MSP430 not the port 1.3.
 
