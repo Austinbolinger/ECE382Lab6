@@ -48,12 +48,12 @@ I hooked the robot up similar to my design above. I changed the use of pins for 
 ##Functionality
 The functionality is to have a robot preform a set operation without remote control and while not plugged into the USB. PWM drives the motors. It is up to the me w=to tell when the motors need to be active. I will use different lengths of delays to tell my program to continue operating as it is set in order to perform certain turns. The turns will be performed in tank style turns (one wheel forward and the other one backwards.]
 code found here 
-https://github.com/Austinbolinger/ECE382Lab6/blob/master/Lab6Required
+https://github.com/Austinbolinger/ECE382Lab6/tree/master/Lab6Required
 
 ##A Functionality
 The A functionality is to perform operations as given by the remote control while not plugged into the USB. This is the same as functionality but it adds in the remote control from lab 5.
 code found here (most comments found here)
-https://github.com/Austinbolinger/ECE382Lab6/blob/master/Lab6pre
+https://github.com/Austinbolinger/ECE382Lab6/tree/master/Lab6pre
 
 ##Debugging Functionality
 To start off I tried to always have the PWM on and just change when the motors were active by the output mode. In order to code, I used the coding style from lesson 32's powerpoint. The key to take away from that style was to use two different clocks, one for each motor. After 30 minutes of coding, I was ready to go. I hooked up the robot and tested my code. I could found that it worked but one wheel always spun way to fast. I decided after talking to other classmates that it was the problem of the use of wrong pins on the MSP430. I switched methods and used different pins. 
